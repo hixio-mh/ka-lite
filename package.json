@@ -60,7 +60,7 @@
     "jquery-ui-touch-punch": "0.2.3",
     "jquery.fancytree": "2.11.0",
     "JSON2": "0.1.0",
-    "katex": "0.5.1",
+    "katex": "0.12.0",
     "minifyify": "7.0.5",
     "node-lessify": "0.0.10",
     "qtip2": "2.2.0",
