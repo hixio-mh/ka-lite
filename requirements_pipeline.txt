@@ -1,3 +1,4 @@
 requests==2.10.0
 github3.py==0.9.6
 gcloud
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
