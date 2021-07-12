@@ -27,7 +27,7 @@
     "karma-sinon": "^1.0.4",
     "qunit": "~0.7.5",
     "qunitjs": "~1.16.0",
-    "sinon": "~1.12.2"
+    "sinon": "~1.17.7"
   },
   "dependencies": {
     "async": "1.4.2",
