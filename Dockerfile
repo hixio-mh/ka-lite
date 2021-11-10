@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 
 # install latest python and nodejs
 RUN apt-get -y update && \
